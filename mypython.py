@@ -48,6 +48,11 @@ public class BinaryConverter {
             all = c == '0' || c == '1';
             i++;
         }
-        return all;
+        return all
+        x = 1
+y =2
+print(x+y);
+
+        ;
     }
 }
