@@ -52,7 +52,9 @@ public class BinaryConverter {
         x = 1
 y =2
 print(x+y)
- z = 3;
+ z = 3
+ z =4
+ yb=5 ;
 
         ;
     }
